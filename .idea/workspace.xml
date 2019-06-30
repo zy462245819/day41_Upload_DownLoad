@@ -1,17 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c710651b-85c9-47f5-916f-1f6f0b2724ce" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/day41_Upload_DownLoad.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c710651b-85c9-47f5-916f-1f6f0b2724ce" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1852045429">
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PLAIN_TEXT" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -45,13 +53,18 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="jar://$PROJECT_DIR$/web/WEB-INF/lib/commons-fileupload-1.2.2.jar!/org/apache/commons/fileupload/DiskFileUpload.class">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="147">
               <caret line="51" column="12" selection-start-line="51" selection-start-column="12" selection-end-line="51" selection-end-column="12" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -99,6 +112,11 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-9" />
+    <option name="width" value="978" />
+    <option name="height" value="1039" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -159,7 +177,9 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561874278610" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561874280311" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -263,7 +283,7 @@
       <workItem from="1551145590347" duration="3532000" />
       <workItem from="1551228591032" duration="1504000" />
       <workItem from="1551264978842" duration="6171000" />
-      <workItem from="1561761640634" duration="11641000" />
+      <workItem from="1561761640634" duration="12255000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1561762945728</created>
@@ -275,7 +295,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1599000" />
+    <option name="totallyTimeSpent" value="2213000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -290,7 +310,7 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
       <window_info id="JRebel" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49591836" visible="true" weight="0.18005355" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49591836" visible="true" weight="0.18005355" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -309,7 +329,7 @@
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4986613" weight="0.32957748" />
       <window_info anchor="bottom" id="Application Servers" order="7" sideWeight="0.49933067" weight="0.2112676" />
       <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49933067" weight="0.32957748" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="9" sideWeight="0.50133866" side_tool="true" visible="true" weight="0.32957748" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50133866" side_tool="true" visible="true" weight="0.32957748" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32957748" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" sideWeight="0.49933067" weight="0.32957748" />
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
@@ -331,5 +351,17 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1" />
     <option name="LAST_COMMIT_MESSAGE" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$PROJECT_DIR$/web/WEB-INF/lib/commons-fileupload-1.2.2.jar!/org/apache/commons/fileupload/DiskFileUpload.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="51" column="12" selection-start-line="51" selection-start-column="12" selection-end-line="51" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
   </component>
 </project>
