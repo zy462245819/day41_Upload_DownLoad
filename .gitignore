@@ -1,4 +1,5 @@
 
 .idea/day41_Upload_DownLoad.iml
-lib/
+/lib
+.gitignore
 .idea
