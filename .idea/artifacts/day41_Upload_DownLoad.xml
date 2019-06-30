@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="day41_Upload_DownLoad">
+    <output-path>$PROJECT_DIR$/../../工具/apache-tomcat-7.0.57/apache-tomcat-7.0.57/webapps/day41_Upload_DownLoad</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="day41_Upload_DownLoad/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="day41_Upload_DownLoad" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
